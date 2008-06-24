@@ -1,0 +1,11 @@
+thingy:
+  id: 1
+  title: a thingy
+  body: thingy body
+  project_id: 1
+  client_id: 1
+  
+other_thingy:
+  id: 2
+  title: another thingy
+  body: something

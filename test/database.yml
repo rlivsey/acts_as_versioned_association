@@ -1,0 +1,6 @@
+mysql:
+  adapter: mysql
+  host: localhost
+  username: 
+  password: 
+  database: plugins_acts_as_versioned_with_associations

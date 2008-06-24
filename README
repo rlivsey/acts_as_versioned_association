@@ -1,0 +1,5 @@
+= acts_as_versioned_association
+
+Works in conjunction with acts_as_versioned to add versioning to the associations too
+
+NOTE - hasn't been touched since Rails 1.2 and not been tested in Rails 2, needs some TLC which I don't currently have time for 

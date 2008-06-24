@@ -1,0 +1,10 @@
+important_project:
+  id: 1
+  name: the important project
+  version: 1
+  
+  
+another_project:
+  id: 2
+  name: another important project
+  version: 1
